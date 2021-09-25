@@ -51,9 +51,9 @@ const Footer = () => {
 			<p>
 				©&nbsp;
 				<a target='_blank' href=''>
-					Abis Abdallah
+					Prem Mali
 				</a>
-				&nbsp;2020 - 2021.
+				&nbsp;2021 - 2022.
 			</p>
 
 			<p>
@@ -64,7 +64,7 @@ const Footer = () => {
 				open sourced on
 				<a
 					target='_blank'
-					href='https://github.com/AbdallahAbis/AbdallahAbis-v2'
+					href='https://github.com/prem1835/AbdallahAbis-v2'
 				>
 					<Github />
 				</a>

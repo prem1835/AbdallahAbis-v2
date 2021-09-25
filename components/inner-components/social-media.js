@@ -70,27 +70,27 @@ const SVG = ({ name }) =>
 const socialMedia = [
 	{
 		name: 'upWork',
-		url: 'https://www.upwork.com/freelancers/~012d12ad79941dfff5',
+		url: 'https://www.upwork.com/freelancers/~01f65526a451404876',
 	},
 	{
 		name: 'GitHub',
-		url: 'https://github.com/AbdallahAbis',
+		url: 'https://github.com/prem1835',
 	},
 	{
 		name: 'LinkedIn',
-		url: 'https://www.linkedin.com/in/abdallah-abis/',
+		url: 'https://www.linkedin.com/in/prem-mali/',
 	},
 	{
 		name: 'CodePen',
-		url: 'https://codepen.io/abdallah-abis',
+		url: 'https://codepen.io/flex_prem',
 	},
 	{
 		name: 'Instagram',
-		url: 'http://instagram.com/Abis_Abdallah',
+		url: 'http://instagram.com/flex.prem',
 	},
 	{
 		name: 'Twitter',
-		url: 'https://twitter.com/Dev_abis',
+		url: 'https://twitter.com/Prem__mali',
 	},
 ];
 
