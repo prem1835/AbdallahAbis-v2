@@ -12,7 +12,7 @@ skills: [
 		'Firebase',
 		'Redux-Thunk',
     ]
-image: '/images/prem.jpeg'
+image: '/images/prem.jpg'
 ---
 
 A JAM Stack web developer who specializes in JavaScript Technologies, Experience in building complete websites with Backend using CMS.<br />
