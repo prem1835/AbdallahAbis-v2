@@ -3,7 +3,6 @@ skills: [
 		'HTML5 & CSS3',
 		'JavaScript / ES6',
 		'React.js',
-		'Gatsby.js',
 		'Redux.js',
 		'Sass & Scss',
 		'Tailwind',
@@ -13,7 +12,7 @@ skills: [
 		'Firebase',
 		'Redux-Thunk',
     ]
-image: '/images/abis.png'
+image: '/images/prem.jpeg'
 ---
 
 A JAM Stack web developer who specializes in JavaScript Technologies, Experience in building complete websites with Backend using CMS.<br />
